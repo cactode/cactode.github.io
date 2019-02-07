@@ -1,16 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+I grew up in San Diego and spent my college years at MIT. I love the sun and freeze whenever the temperature drops below 65 degrees.
 
-My name is Inigo Montoya. I have the following qualities:
+I love making things that haven't existed before. Or things that have existed before. Either is fine.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I love building complicated things in simple ways. I love making simple projects complicated by trying to make them too simple.
 
-What else do you need?
+I love learning new skills and testing them out on projects. I aim to be "The Jack of All Trades and Master of None". Unless you're a potential employer. Then you can ignore that last bit. I'm definitely the master of everything.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I don't love finding novel ways of injuring myself, but that seems to be part of the deal.
