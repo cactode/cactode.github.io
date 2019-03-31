@@ -12,11 +12,13 @@ One Thursday night, a group of friends and I decided to build something “flash
 “Pi Tau Zeta” is the name of our hall’s alter ego as a hypothetical fraternity. Each letter is backed by a string of individually addressable LED lights and a 30W LED blinder. The entire setup can be controlled by DMX stage software so as to flash in rhythm with music.
 
 ![](/img/projects/lightboard/1.jpg)
+
 ![](/img/projects/lightboard/2.jpg)
 
 The body of the lightboard was made out of a recycled clothing dresser that was cut in half.  The backing was made out of scrap wood, and the front facade was made out of laser-cut scrap wood.
 
 ![](/img/projects/lightboard/3.jpg)
+
 ![](/img/projects/lightboard/4.jpg)
 
 The LEDs were pulled out of old projects of ours that had no more use for them; all of the electronics after that were simply pulled out of the trash. The project now sits proudly on our hall and burns holes in the retinas of passerby.
