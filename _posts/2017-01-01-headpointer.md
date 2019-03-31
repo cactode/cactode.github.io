@@ -11,11 +11,11 @@ Head pointers, unfortunately, are neither elegant nor comfortable - most seem mo
 
 We decided to disguise our head pointer as a baseball cap with a removable pointer. We embedded a construction helmet harness within the cap to make it capable of “clamping” onto a patient’s head and added a reinforcing aluminum sheet to strengthen it.
 
-![](/img/projects/headpointer/2.jpg)
+![](/img/projects/headpointer/2.gif)
 
 The head pointer was built out of acrylic and brass square tubing. A tiny ball-bearing mechanism built into the hinge lets the head pointer pivot at discrete steps with an audible “click”. Small wires within allowed the capacitive tip to make contact with Meri’s body (and earth ground).
 
-![](/img/projects/headpointer/3.jpg)
+![](/img/projects/headpointer/3.gif)
 
 The finished product won third place at ATHack – and more importantly, it brought a smile to Meri’s face!
 
