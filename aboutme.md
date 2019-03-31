@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-![](/img/aboutme/me.jpg)
+![](/img/aboutme/me.png)
 I grew up in San Diego and spent my college years at MIT. I love the sun and freeze whenever the temperature drops below 65 degrees.
 
 I love making things that haven't existed before. Or things that have existed before. Either is fine.
