@@ -6,7 +6,7 @@ use-site-title: true
 ---
 <div class="posts-list">
 {% for post in paginator.posts %}
-{% if post.tags.size > 0 and post.tags contains project %}
+{% if post.tags.size > 0 and post.tags contains 'project' %}
 <article class="post-preview">
     <a href="{{ post.url | prepend: site.baseurl }}">
     <h2 class="post-title">{{ post.title }}</h2>
