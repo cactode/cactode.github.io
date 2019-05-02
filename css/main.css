@@ -789,3 +789,8 @@ td.gutter {
     margin: 0 auto;
     display: block;
 }
+
+.project-thumbnail
+{
+    height: 128px;
+}
