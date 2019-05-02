@@ -2,6 +2,7 @@
 layout: post
 title: ATHack Head Pointer
 subtitle: Actually useful?
+tags: [project]
 ---
 A head-pointer is a little-known tidbit of technology used by those with limited control of their extremities. It consists of a stick (often with a capacitive stylus attached) that is secured to the head of a patient. Using this stick, a patient can operate buttons, keyboards, tablets, and more using only their neck muscles.
 
