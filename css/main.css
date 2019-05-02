@@ -790,7 +790,8 @@ td.gutter {
     display: block;
 }
 
-.project-thumbnail
+.project-card
 {
-    height: 128px;
+    width: 18rem;
+    display: inline-block;
 }
