@@ -4,76 +4,71 @@ title: Projects
 subtitle: In no particular order...
 use-site-title: true
 ---
-<div class='card-deck'>
-    <a class="card project-card" href='/2018-01-01-vortexcannon'>
-        <img src="/img/projects/vortexcannon/1.png" class="card-img-top" alt="...">
-            <div class="card-body">
-            <h5 class="card-title">Autonomous Face-tracking Vortex Cannon</h5>
-            <p class="card-text">The airzooka taken to its natural conclusion</p>
-        </div>
+<div class="posts-list">
+{% for post in paginator.posts %}
+{% if post.tags > 0 and post.tags contains "project" %}
+<article class="post-preview">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+    <h2 class="post-title">{{ post.title }}</h2>
+
+    {% if post.subtitle %}
+    <h3 class="post-subtitle">
+        {{ post.subtitle }}
+    </h3>
+    {% endif %}
+    </a>
+
+    <p class="post-meta">
+    Posted on {{ post.date | date: "%B %-d, %Y" }}
+    </p>
+
+    <div class="post-entry-container">
+    {% if post.image %}
+    <div class="post-image">
+        <a href="{{ post.url | prepend: site.baseurl }}">
+        <img src="{{ post.image }}">
+        </a>
     </div>
+    {% endif %}
+    <div class="post-entry">
+        {{ post.excerpt | strip_html | xml_escape | truncatewords: site.excerpt_length }}
+        {% assign excerpt_word_count = post.excerpt | number_of_words %}
+        {% if post.content != post.excerpt or excerpt_word_count > site.excerpt_length %}
+        <a href="{{ post.url | prepend: site.baseurl }}" class="post-read-more">[Read&nbsp;More]</a>
+        {% endif %}
+    </div>
+    </div>
+
+    {% if post.tags.size > 0 %}
+    <div class="blog-tags">
+    Tags:
+    {% if site.link-tags %}
+    {% for tag in post.tags %}
+    <a href="{{ site.baseurl }}/tags#{{- tag -}}">{{- tag -}}</a>
+    {% endfor %}
+    {% else %}
+        {{ post.tags | join: ", " }}
+    {% endif %}
+    </div>
+    {% endif %}
+
+    </article>
+{% endif %}
+{% endfor %}
 </div>
 
-<div class='media'>
-    <img src='/img/projects/vortexcannon/1.png' class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>Autonomous Face-tracking Vortex Cannon</h5>
-        The airzooka taken to its natural conclusion
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/cutecube/1.jpg'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>Cute Cube</h5>
-        A <i>very</i> useless machine
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/hotdog/1.jpg'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>Automatic Hotdog Cooker</h5>
-        From bun to belly - and it somehow involves electrocuting a hotdog
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/lasercutter/1.png'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>40W Solid State Laser Cutter</h5>
-        As powerful as it is dangerous
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/iiw/1.jpg'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>Portable Wii Console</h5>
-        Frakenstein's console
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/toollocker/1.jpg'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>Automatic Tool Locker</h5>
-        Makerspace tyranny
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/spicerack/1.jpg'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>Spice-Rack</h5>
-        Cleaning dishes has never been so stressful
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/headpointer/1.jpg'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>ATHack Head Pointer</h5>
-        One smile can mean a lot
-    </div>
-</div>
-<div class='media'>
-    <img src='/img/projects/lightboard/1.jpg'class="mr-3 project-thumbnail">
-    <div class='media-body'>
-        <h5 class='mt-0 mb-1'>Putz Lightboard</h5>
-        A bright idea
-    </div>
-</div>    
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+{% if paginator.previous_page %}
+<li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+</li>
+{% endif %}
+{% if paginator.next_page %}
+<li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+</li>
+{% endif %}
+</ul>
+{% endif %}
+      

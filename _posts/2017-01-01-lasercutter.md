@@ -2,6 +2,7 @@
 layout: post
 title: Laser Cutter
 subtitle: 40W of fun
+image: /img/projects/lasercutter/1.png
 ---
 
 “Cheap” and “Laser Cutter” are not words that are normally seen together; the CO2 laser tubes they use are often to blame for this. Cooling systems, high-voltage power supplies, and flying-mirror assemblies don’t help.

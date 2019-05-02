@@ -790,8 +790,10 @@ td.gutter {
     display: block;
 }
 
-.project-card
+.project-card,
+.project-card:hover
 {
     width: 18rem;
     display: inline-block;
+    color: inherit;
 }
