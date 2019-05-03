@@ -2,6 +2,8 @@
 layout: post
 title: Automatic Tool Locker
 subtitle: Power Tool Tyranny
+image: /img/projects/toollocker/thumbnail.jpg
+tags: [project]
 ---
 How do you prevent a hall of rowdy mechanical engineering students from destroying brand-new power tools? Why is this even a problem?
 

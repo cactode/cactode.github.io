@@ -2,6 +2,8 @@
 layout: post
 title: Spice Rack
 subtitle: Kitchen Tyranny
+image: /img/projects/spicerack/thumbnail.jpg
+tags: [project]
 ---
 Our dorm's kitchen is nominally disgusting. This is to be expected when 30 students are forced to use the same kitchen. 
 
