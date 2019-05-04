@@ -2,7 +2,7 @@
 layout: post
 title: Laser Cutter
 subtitle: 40W of fun
-tags: [project]
+tags: [project, electrical, mechanical, software, long term]
 image: /img/projects/lasercutter/thumbnail.jpg
 ---
 
@@ -93,3 +93,5 @@ The electronics were designed to be hidden in a small box at the back of the mac
 ![](/img/projects/lasercutter/27.jpg)
 
 The mechanical portion of the machine is now finished; all that needs to be added is a laser driver. Providing 50A of perfectly smoothed current with PWM capabilities is not as easy as hoped, but progress is being made.  This post will be updated once the machine starts cutting!
+
+Update: I have a laser driver! It won't be long until this makes its first cuts.

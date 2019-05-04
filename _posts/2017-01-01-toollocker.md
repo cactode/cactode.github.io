@@ -3,7 +3,7 @@ layout: post
 title: Automatic Tool Locker
 subtitle: Power Tool Tyranny
 image: /img/projects/toollocker/thumbnail.jpg
-tags: [project]
+tags: [project, electrical, mechanical, quick build]
 ---
 How do you prevent a hall of rowdy mechanical engineering students from destroying brand-new power tools? Why is this even a problem?
 
@@ -16,7 +16,6 @@ Time is always at a premium, so the design had to be simple – but given the am
 ![](/img/projects/toollocker/2.jpg)
 
 To save time, every single plate was constructed from a single sketch that was used to create 5 derived configurations. The final assembly is just the “same” part 5 times!
-
 
 How does it lock up tools? It doesn’t; it just traps their power cords in a comb of aluminum. This makes the design capable of entrapping 14 tools at once.
 

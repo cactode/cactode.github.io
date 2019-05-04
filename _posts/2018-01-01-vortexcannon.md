@@ -3,17 +3,16 @@ layout: post
 title: Automatic Face Tracking Vortex Cannon
 subtitle: Kids these days...
 image: /img/projects/vortexcannon/thumbnail.jpg
-tags: [project]
+tags: [project, electrical, mechanical, software, long term]
 ---
 
 I made a vortex cannon when I was around 12. It was a trash bag taped to a cardboard box with a few rubber bands holding it taught. Shooting rings of air at my parents was a favorite hobby of mine until they eventually stomped it to pieces. I deserved it, but the legacy of that cardboard box deserves to be honored.
-
 
 A vortex cannon works by pushing a precise volume of air through a properly sized orfice. The faster you push the air, the faster the ring travels. How do you push a precise amount of air as fast as possible? A subwoofer! Or two. A subwoofer is electric, so you might as well automate the process. Ooo, and mount it on a gimbal. With cameras.
 
 ![](/img/projects/vortexcannon/1.png)
 
-This was all theory; if the math is off, the whole thing won't work. A few weeks were needed for me to research vortex formation theory; research papers from Microsoft proved to be particularly useful. But eventually, one CAD later, I had a design.
+This was all theory; if the math is off, the whole thing won't work. A few weeks were needed for me to research vortex formation theory; research papers from Microsoft proved to be particularly useful. But eventually (after some furtive CADing) I had a design.
 
 ![](/img/projects/vortexcannon/2.jpg)
 
@@ -21,7 +20,7 @@ This was all theory; if the math is off, the whole thing won't work. A few weeks
 
 ![](/img/projects/vortexcannon/4.jpg)
 
-80/20, waterjet aluminum, and hobby servos are the building blocks of this machine. 1/2" aluninum plate was somehow the only stock I could find. No kill like overkill...
+80/20, waterjet aluminum, and hobby servos are the building blocks of this machine. I conveniently had an enormous sheet of 1/2" aluminum at my disposal...
 
 ![](/img/projects/vortexcannon/5.jpg)
 
@@ -57,20 +56,19 @@ I didn't want to use gears to couple the servos to the gimbal because modeling p
 
 ![](/img/projects/vortexcannon/17.jpg)
 
-As is tradition, the electronics were imprisoned in the base. A massive 1000W amplifier was recruited to power the subwoofers. A Raspberry Pi was stuck in the base to act as the brains.
+As is tradition, the electronics were stuffed in the base. A massive 1000W amplifier was recruited to power the subwoofers. A Raspberry Pi was stuck in the base to act as the brains.
 
 ![](/img/projects/vortexcannon/18.jpg)
 
 ![](/img/projects/vortexcannon/19.jpg)
 
-After slapping a camera on the cannon body, the cannon could be assembled.
+After adding a camera on the cannon body, the cannon could be assembled.
 
 ![](/img/projects/vortexcannon/20.jpg)
 
 ![](/img/projects/vortexcannon/21.jpg)
 
 The capstan drive also came together here. The springs are needed to maintain tension; the cubic friction only works when tension isn't zero!
-
 
 OpenCV (with Haar Cascades) was used for face detection. A simple PD controller was written to aim the gimbal at any faces it could find. Once a face was locked on, the Raspberry Pi could be commanded to send a short pulsing waveform to the subwoofers.
 

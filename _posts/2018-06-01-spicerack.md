@@ -3,7 +3,7 @@ layout: post
 title: Spice Rack
 subtitle: Kitchen Tyranny
 image: /img/projects/spicerack/thumbnail.jpg
-tags: [project]
+tags: [project, electrical, software, long term]
 ---
 Our dorm's kitchen is nominally disgusting. This is to be expected when 30 students are forced to use the same kitchen. 
 
@@ -16,7 +16,6 @@ Spice-rack is a Flask application that's designed to keep watch over our sinks. 
 ![](/img/projects/spicerack/2.jpg)
 
 Every ten seconds, a background thread takes a series of snapshots. Motion is tracked from snapshot to snapshot using OpenCV.
-
 
 Dirty dishes appear when people appear, and people tend to move around. A C3.js graph that shows kitchen movement over time lets our hall's residents sweep through the kitchen's history and track down perpetrators.
 

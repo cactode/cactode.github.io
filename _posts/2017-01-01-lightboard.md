@@ -3,7 +3,7 @@ layout: post
 title: Party Lightboard
 subtitle: Made in a sleepless haze...
 image: /img/projects/lightboard/thumbnail.jpg
-tags: [project]
+tags: [project, electrical, mechanical, software, quick build]
 ---
 Some projects are born of meticulous planning. Others are born out of boredom. Witness the latter with the following project:
 
