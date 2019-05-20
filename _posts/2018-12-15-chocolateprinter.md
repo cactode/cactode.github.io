@@ -25,7 +25,7 @@ Like any 3D printer, the settings for extrusion proved to be the biggest pain. I
 
 ![](/img/projects/chocolateprinter/6.gif)
 
-I thought my most interesting print was an attempt at gyroid infill - it turned out suprisingly well! 
+I thought my most interesting print was an attempt at gyroid infill - it turned out surprisingly well! 
 
 All in all, I probably increased my blood sugar by a few hundred percentage points over the course of this project.
 

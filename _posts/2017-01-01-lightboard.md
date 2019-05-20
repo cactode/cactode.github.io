@@ -17,7 +17,7 @@ One Thursday night, a group of friends and I decided to build something “flash
 
 ![](/img/projects/lightboard/2.jpg)
 
-The body of the lightboard was made out of a recycled clothing dresser that was cut in half.  The backing was made out of scrap wood, and the front facade was made out of laser-cut scrap wood.
+The body of the lightboard was made out of a recycled clothing dresser that was cut in half.  The backing was made out of scrap wood, and the front façade was made out of laser-cut scrap wood.
 
 ![](/img/projects/lightboard/3.jpg)
 

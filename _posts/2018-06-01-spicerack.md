@@ -7,7 +7,7 @@ tags: [project, electrical, software, long term]
 ---
 Our dorm's kitchen is nominally disgusting. This is to be expected when 30 students are forced to use the same kitchen. 
 
-George Bush once encouraged us all to be vigilent. I don't think he was asking me to set up a system of cameras in our kitchen to find dirty-dish perpetrators, but I did it anyways. We must, of course, be vigilent. 
+George Bush once encouraged us all to be vigilant. I don't think he was asking me to set up a system of cameras in our kitchen to find dirty-dish perpetrators, but I did it anyways. We must, of course, be vigilant. 
 
 ![](/img/projects/spicerack/1.jpg)
 

@@ -29,7 +29,7 @@ Specifically, climbing rope under 200lb of tension. The idea is based off of the
 
 ![](/img/projects/ultraskycrane/6.jpg)
 
-Leightweight aluminum carriages ride on the ropes and provide pulleys for a basic CoreXY motion setup.
+Lightweight aluminum carriages ride on the ropes and provide pulleys for a basic CoreXY motion setup.
 
 ![](/img/projects/ultraskycrane/7.jpg)
 

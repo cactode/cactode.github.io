@@ -74,4 +74,4 @@ OpenCV (with Haar Cascades) was used for face detection. A simple PD controller 
 
 ![](/img/projects/vortexcannon/22.jpg)
 
-The machine worked beautifully! I demoed it at XFair (a career fair held by TechX) and watched as it peppered passarby with invisible vortex rings. My parents can't smash this one.
+The machine worked beautifully! I demoed it at XFair (a career fair held by TechX) and watched as it peppered passerby with invisible vortex rings. My parents can't smash this one.
