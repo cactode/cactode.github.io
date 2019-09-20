@@ -4,7 +4,7 @@ title: ML Cat Delivery System
 subtitle: AKA Laser Guided Cats
 image: /img/projects/catdelivery/thumbnail.jpg
 tags: [project, mechanical, software, short term]
--
+---
 Cats follow lasers. Lasers can be aimed by computers. Computers can run YOLO. YOLO can detect cats. We now have a beautiful hackathon project.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4MIq9EfABlo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
