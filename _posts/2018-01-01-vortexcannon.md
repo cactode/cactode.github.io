@@ -5,6 +5,16 @@ subtitle: Kids these days...
 image: /img/projects/vortexcannon/thumbnail.jpg
 tags: [project, electrical, mechanical, software, long term]
 ---
+## Update
+I had to disassemble this machine due to a lack of space, so I took a few minutes to record it in action.
+
+![](/img/projects/vortexcannon/23.gif)
+
+![](/img/projects/vortexcannon/24.gif)
+
+With a little bit of smoke, the rings become visible!
+
+<hr>
 
 I made a vortex cannon when I was around 12. It was a trash bag taped to a cardboard box with a few rubber bands holding it taught. Shooting rings of air at my parents was a favorite hobby of mine until they eventually stomped it to pieces. I deserved it, but the legacy of that cardboard box deserves to be honored.
 

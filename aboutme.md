@@ -2,7 +2,7 @@
 layout: page
 title: About me
 ---
-![](/img/aboutme/me.png){: .center-image }
+![To be clear - I am the dog, not the person.](/img/aboutme/me.png){: .center-image }
 
 I grew up in San Diego and spent my college years at MIT. I'm currently finishing up my Masters with a concentration in AI. 
 
