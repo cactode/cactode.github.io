@@ -8,7 +8,7 @@ tags: [project, mechanical, software, electrical, quick build]
 As is tradition, my friends and I attended MakeMIT (a hardware hackathon) for the 4th time. The theme of the night was... bananas.
 
 ## Banana Safety Machine
-Every evening, Amazon delivers a bushel of bananas to my doorstep - but sometimes, the local banana gang tries to steal them. It's a ![](serious problem)(https://en.wikipedia.org/wiki/Package_theft). How can my team stop this from happening?
+Every evening, Amazon delivers a bushel of bananas to my doorstep - but sometimes, the local banana gang tries to steal them. It's a [serious problem](https://en.wikipedia.org/wiki/Package_theft). How can my team stop this from happening?
 
 ![](/img/projects/hackathon/thumbnail.jpg)
 
