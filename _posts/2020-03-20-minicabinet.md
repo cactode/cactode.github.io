@@ -23,7 +23,7 @@ The sled is cooled by a small Noctua fan nestled in the enclosure.
 
 ![](/img/projects/minicabinet/3.jpg)
 
-Now for the boring part of this project - wiring. A friend of mine had recently shown me his beautiful wiring cabinet from work and I was motivated to outdo him. It look longer than I'd care to admit, but it looks purty.
+Now for the boring part of this project - wiring. A friend of mine had recently shown me his beautiful wiring cabinet from work and I was motivated to outdo him. Don't tell him, but I think I won.
 
 ![](/img/projects/minicabinet/4.jpg)
 
@@ -33,7 +33,7 @@ Once everything was in place, it was just a matter of wrangling the wires into p
 
 ![](/img/projects/minicabinet/6.jpg)
 
-The final fit was tight, but it somehow worked the first time!
+The final fit was tight but efficient!
 
 ![](/img/projects/minicabinet/7.jpg)
 

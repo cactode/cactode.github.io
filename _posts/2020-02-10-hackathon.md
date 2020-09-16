@@ -16,7 +16,7 @@ Behold - a wireless IOT package theft prevention device! The idea behind it: whe
 
 ![](/img/projects/hackathon/1.jpg)
 
-Small pressure sensors record the weight of the package and watch for fluctuations. An exponential filter lets the device ignore sensor noise and vibrations. If packages are added, the device pays no mind and lights up a friendly sign.
+Small pressure sensors embedded in the legs of the platform record the weight of the package and watch for fluctuations. An exponential filter lets the device ignore sensor noise and vibrations. If packages are added, the device pays no mind and lights up a friendly sign. The platform is battery powered and WiFi-connected, so it can be monitored remotely.
 
 ![](/img/projects/hackathon/2.jpg)
 
@@ -50,8 +50,8 @@ What do you do once your supply of bananas is made safe? You tattoo them, clearl
 Your browser does not support the video tag.
 </video>
 
-An old Lulzbot printer frame was jerry-rigged to hold a needle. Bananas oxidize when their skin is broken. We wrote a small script that took a source image and converted it into dots. We then commanded the printer to poke a hole for every dot.
+An old Lulzbot printer frame was jerry-rigged to hold a needle. Bananas oxidize when their skin is broken. We wrote a small script that took a source image and converted it into dots. A poisson noise distribution with rejection sampling was used to make it look more natural. We then commanded the printer to poke a hole for every dot.
 
 ![](/img/projects/hackathon/8.jpg)
 
-We won a prize at the hackathon. Isn't life wonderful?
+We won a first-place sponsor prize at the hackathon. Isn't life wonderful?

@@ -25,7 +25,7 @@ But how do you make linear rails long enough for something like this? Stiffness 
 
 ![](/img/projects/ultraskycrane/5.jpg)
 
-Specifically, climbing rope under 200lb of tension. The idea is based off of the principle of [tensegrity](https://en.wikipedia.org/wiki/Tensegrity); by putting the ropes under high tension, they can be turned into extremely stiff rails upon which a gantry/carriage can run.
+Specifically, climbing rope under 200lb of tension. The idea is based off of the principle of [tensegrity](https://en.wikipedia.org/wiki/Tensegrity); by putting the ropes under high tension, they can be turned into extremely stiff rails upon which a gantry/carriage can run. The compressive member in this system is the room.
 
 ![](/img/projects/ultraskycrane/6.jpg)
 

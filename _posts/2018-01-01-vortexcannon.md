@@ -42,7 +42,7 @@ A gimbal requires two axis of rotation. The bottom swivel needed a lazy susan of
 
 ![](/img/projects/vortexcannon/8.jpg)
 
-The orfice size was calculated using the Slug Theory of vortex formation. The Microsoft papers provided some additional guidance on optimization.
+The orifice size was calculated using the Slug Theory of vortex formation. The Microsoft papers provided some additional guidance on optimization.
 
 ![](/img/projects/vortexcannon/9.jpg)
 
